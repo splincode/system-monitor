@@ -1,4 +1,4 @@
-### I. Analyzing the load on the system at the moment
+## Analyzing the load on the system at the moment
 
 CPU, Memory, Disk consumption analysis
 
@@ -7,7 +7,7 @@ CPU, Memory, Disk consumption analysis
 ./sys.sh intel-core-i7.log
 ```
 
-- TODO
+### TODO
 - [x] Measuring the CPU
 - [x] Measuring Memory Usage
 - [ ] Definition of disk space
