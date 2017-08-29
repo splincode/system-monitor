@@ -2,10 +2,10 @@
 
 CPU, Memory, Disk consumption analysis
 
-`` `bash
+```bash
 # the first argument is the file name with load logs on the machine
 ./sys.sh intel-core-i7.log
-`` `
+```
 
 - TODO
 - [x] Measuring the CPU
