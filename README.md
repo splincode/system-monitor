@@ -14,16 +14,31 @@ splincode@mivanov:~/system-monitor$ ./shell/sys.sh # watch mode
 # result 
 $ cat shell/tsv/mivanov.tsv
 CPU(%)	RAM(%)	DISK(%)
-1.94	  19.08	  14
-1.94	  19.08	  14
-1.94	  19.08	  14
-1.94	  19.08	  14
+2.00	21.02	14
+2.00	21.07	14
+2.00	21.07	14
+2.00	21.07	14
+2.00	21.07	14
+2.00	21.06	14
+2.00	21.06	14
+2.00	21.06	14
+2.00	21.09	14
+2.00	21.09	14
+2.00	21.09	14
+2.00	21.10	14
 ```
 
 ### Recommendation
 ```bash
 $ chmod +x shell/sys.sh
 ```
+
+### Vusialization
+- load .tsv file to https://datacopia.com/#/Data
+
+![](https://habrastorage.org/web/e24/c1d/567/e24c1d567d5f47dabf1d0d496cd4ff78.png)
+
+- open google docs excel / microsoft excel
 
 ### TODO
 - [x] Measuring the CPU
